@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erinmarie84/BurgerApp.git"
+    "url": "git+https://github.com/erinmarie84/Eat-The-Burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/erinmarie84/BurgerApp/issues"
+    "url": "https://github.com/erinmarie84/Eat-The-Burger/issues"
   },
-  "homepage": "https://github.com/erinmarie84/BurgerApp#readme",
+  "homepage": "https://github.com/erinmarie84/Eat-The-Burger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.1.0",
